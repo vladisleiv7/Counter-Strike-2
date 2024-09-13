@@ -1,0 +1,8 @@
+#clock {
+    position: absolute;
+    top: 530px;
+    left: 700px;
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
